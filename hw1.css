@@ -1,0 +1,33 @@
+header{
+	background:#B3B3B3;
+}
+h1{
+	color:#FFFFFF;
+	font-variant:all-small-caps;
+	text-align:center;
+}
+h2{
+	color:#0000FF;
+	font-variant:all-small-caps;
+	text-align:center;
+	background:#FFFFFF;
+}
+section{
+	background:#FFC0CB;
+}
+a{
+	color:#000000;
+	background:#FFFF00;
+	text-align:center;
+}
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	height:400px;
+}
+aside{
+	background:#0000FF;
+}
+
